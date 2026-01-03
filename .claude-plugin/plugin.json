@@ -1,0 +1,5 @@
+{
+  "name": "modal-deployment",
+  "version": "0.0.1",
+  "description": "Run Python code in the cloud with serverless containers, GPUs, and autoscaling using Modal"
+}
