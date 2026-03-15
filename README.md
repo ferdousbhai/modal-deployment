@@ -1,3 +1,5 @@
+> **Archived:** This project is no longer maintained.
+
 # Modal Deployment Plugin
 
 Run Python code in the cloud with serverless containers, GPUs, and autoscaling using [Modal](https://modal.com).
